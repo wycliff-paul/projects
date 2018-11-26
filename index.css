@@ -1,5 +1,5 @@
 body {
-  background-color: brown
+  background-color: green
 }
 nav ul{
   text-align:right;
@@ -28,10 +28,10 @@ img {
   background-size: cover;
   float: right;
 }
-.Home {
+.home {
   font-size: 38px;
   border: 30px
   background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoPtgYKC2ckM6_Qz9f-gTRhNeG4oluCiMl-rCEpyaHO27rL3re");
-
+}
 
 }
